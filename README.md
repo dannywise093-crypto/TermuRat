@@ -182,4 +182,4 @@ Use it wisely. Use it ethically. Or don’t—just don’t get caught.
 
 
 
-**Built with Python, powered by GitHub, operated through Termux.** 
+**Built with Python, powered by GitHub, operated through Termux.**  owner*Danny Wise*
